@@ -14,10 +14,10 @@ Software Engineer professional with strong communication and relationship-buildi
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a>
     <a href="https://www.polywork.com/josemcm85" rel="nofollow noreferrer">
-    <img src="https://d26uz55awpmifc.cloudfront.net/assets/favic…cae9cdbb6e21756d34aab83aff87d042b4bf4107d55e9.png" alt="polywork"> Polywork
+    <img src="https://github.com/josemcm85/josemcm85/blob/main/polywork.png" alt="polywork" width="13" height="13"> Polywork
   </a>
   <a href="mailto:josemcm85@gmail.com" rel="nofollow noreferrer">
-    <img src="https://i.imgur.com/VfWnZHM.jpeg" alt="gmail" width="15" height="15"> Gmail
+    <img src="https://i.imgur.com/VfWnZHM.jpeg" alt="gmail" width="13" height="13"> Gmail
   </a>
   <a href="https://github.com/josemcm85" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
