@@ -13,8 +13,11 @@ Software Engineer professional with strong communication and relationship-buildi
   <a href="www.linkedin.com/in/jose-chaves-b3455252" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a>
+    <a href="https://www.polywork.com/josemcm85" rel="nofollow noreferrer">
+    <img src="https://d26uz55awpmifc.cloudfront.net/assets/favic…cae9cdbb6e21756d34aab83aff87d042b4bf4107d55e9.png" alt="polywork"> Polywork
+  </a>
   <a href="mailto:josemcm85@gmail.com" rel="nofollow noreferrer">
-    <img src="https://i.imgur.com/VfWnZHM.jpeg" alt="github" width="15" height="15"> Gmail
+    <img src="https://i.imgur.com/VfWnZHM.jpeg" alt="gmail" width="15" height="15"> Gmail
   </a>
   <a href="https://github.com/josemcm85" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
