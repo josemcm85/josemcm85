@@ -10,7 +10,7 @@ Software Engineer professional with strong communication and relationship-buildi
 📫 How to reach me:
 
 <p>
-  <a href="www.linkedin.com/in/jose-chaves-b3455252" rel="nofollow noreferrer">
+  <a href="https://www.linkedin.com/in/jose-chaves-b3455252" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a>
     <a href="https://www.polywork.com/josemcm85" rel="nofollow noreferrer">
