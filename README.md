@@ -3,7 +3,7 @@
 </br>Software Enginner at <a href="https://www.experian.com/">Experian</a>
 </em></p>
 <p>
-Software Engineer professional with strong communication and relationship-building skills. I look for a career opportunity where I can thrive, aligning my personal purpose and professional growth by actively applying my formal business education, capabilities, and experience to guarantee a strong contribution to meet the organization’s goals.
+I am a Software Engineer professional that love to learn new things and try to make sense of it.
 </p>
 
 
