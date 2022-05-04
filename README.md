@@ -3,7 +3,7 @@
 </br>Software Enginner at <a href="https://www.experian.com/">Experian</a>
 </em></p>
 <p>
-I am a Software Engineer professional that love to learn new things and try to make sense of it.
+I am a Software Engineer professional that love to learn new things and try make sense of it.
 </p>
 
 
