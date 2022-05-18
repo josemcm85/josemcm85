@@ -2,9 +2,7 @@
 <p><em>Software Engineering - <a href="https://www.ulatina.ac.cr/home">Universidad Latina de Costa Rica</a>
 </br>Software Enginner at <a href="https://www.experian.com/">Experian</a>
 </em></p>
-<p>
-I am a Software Engineer professional that love to learn new things and try make sense of it.
-</p>
+
 
 
 📫 How to reach me:
