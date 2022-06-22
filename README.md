@@ -20,7 +20,10 @@
   <a href="https://github.com/josemcm85" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
   </a>
-
+    
+</p>
+<p>
+<img src="https://www.codewars.com/users/josemcm85/badges/small" alt="CodeWars">
 </p>
 <p>
 
